@@ -15,6 +15,9 @@ Record the weigh in and weigh out of rail trucks -  the system must be able to r
 Allow for pre booking of road trucks -  customers, consignees and transporters must be able to prebook road trucks.
 Generate Invoice based off contract - based off the contract the handling fee and storage fee must automatically be calculated so that an invoice can be generated once the contract is complete.
 
+Main application will be web based but the weighbridge client will be in the form of a thick client that is registered to the application.
+This is due to the requirement of reading from a serial port.
+
 Non-Functional Requirements
 Non-functional requirements are those that are not core to the operation of the software.
 
